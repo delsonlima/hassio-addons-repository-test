@@ -26,4 +26,5 @@ schema:
   TZ: str?
   report_stats: bool
 slug: synapse
-version: 0.2.0
+version: 0.3.0
+image: ghcr.io/delsonlima/hassio-addons/synapse/{arch}:0.3.0 
